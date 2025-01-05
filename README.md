@@ -1,1 +1,0 @@
-# Calculate-sq-of-the-number-using-fn
